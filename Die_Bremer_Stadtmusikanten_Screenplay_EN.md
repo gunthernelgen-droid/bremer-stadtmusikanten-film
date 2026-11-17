@@ -282,4 +282,6 @@ Rooster gives one softer crow. The others answer with a bray, a bark, and a purr
 
 ## OpenFilm handoff
 
-Treat the scene IDs and time ranges as a suggested seven-minute story timeline, not a shot list. Preserve the four animals' motivations, the order of the major story events, their cooperative entrance, and the comic misunderstanding that sends the robbers away. Keep the film understandable and reassuring for ages 5–8. Do not add dialogue or plot events that change the story. Visual design, animation style, camera choices, and shot breakdown are intentionally undecided and should be developed later with the user.
+Treat the scene IDs and time ranges as a suggested seven-minute story timeline, not a shot list. Preserve the four animals' motivations, the order of the major story events, their cooperative entrance, and the comic misunderstanding that sends the robbers away. Keep the film understandable and reassuring for ages 5–8. Do not add dialogue or plot events that change the story.
+
+Use the corresponding reference image in `character_images/` for each character: `DONKEY.webp`, `HOUND.png`, `CAT.png`, `ROOSTER.png`, `CAPTAIN.png`, and `ROBBERS.png`. Keep character designs faithful to their references and use a consistent sketching style throughout every scene. Animate with fluent, measured movement; avoid fast-moving characters and excessive cuts. Develop any visual choices not specified here with the user.
